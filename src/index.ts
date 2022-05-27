@@ -30,6 +30,9 @@ for (indice = 0; indice < cantidadButacas; indice++) {
 console.log(butacas);
 console.log("La cantidad de butacas desocupadas es: " + butacasDesocupadas);
 
+/* Ejercicio realizado gracias al aporte de prácticas 
+y consultas del grupo de alumnos vía WhatsApp. */
+
 //CINE -----------en clase-------------
 // let cine: boolean[] = [true, false, false, true];
 // 1 - CREAR EL ARREGLO CON LOS VALORES LOGICOS [true, false, false, true]
